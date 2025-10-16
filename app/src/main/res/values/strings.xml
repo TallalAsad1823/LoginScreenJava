@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">loginPage</string>
+    <string name="app_name">Login Screen App</string>
+
+    <string name="logo_description">Login Screen Logo</string>
+
+    <string name="logo">App Login Logo</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="reset">RESET</string>
 </resources>
