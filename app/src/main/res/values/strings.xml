@@ -9,4 +9,7 @@
     <string name="password">Password</string>
     <string name="login">LOGIN</string>
     <string name="reset">RESET</string>
+
+    <string name="register_link">New User? Register</string>
+    <string name="forgot_password_link">Forgot Password?</string>
 </resources>
